@@ -12,3 +12,4 @@ C:\Users\falke\Documents\coding\filehandling\obj\Debug\net8.0\refint\filehandlin
 C:\Users\falke\Documents\coding\filehandling\obj\Debug\net8.0\filehandling.pdb
 C:\Users\falke\Documents\coding\filehandling\obj\Debug\net8.0\filehandling.genruntimeconfig.cache
 C:\Users\falke\Documents\coding\filehandling\obj\Debug\net8.0\ref\filehandling.dll
+C:\Users\falke\Documents\coding\filehandling\obj\Debug\net8.0\filehandling.sourcelink.json
