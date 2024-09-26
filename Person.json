@@ -1,5 +1,12 @@
-{
-  "Name": "Alice",
-  "Age": 24,
-  "City": "Amell"
-}
+[
+  {
+    "Name": "Alice",
+    "Age": 24,
+    "City": "Amell"
+  },
+  {
+    "Name": "Lucia",
+    "Age": 23,
+    "City": "Bergen"
+  }
+]

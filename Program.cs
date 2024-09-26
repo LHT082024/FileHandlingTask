@@ -41,15 +41,16 @@ class Program
             string? city = Console.ReadLine();
 
             //lager en variabel utifra klassen "Person"
-            var person = new Person
+            var newPerson = new Person
             {
                 Name = name,
                 Age = age,
                 City = city,
             };
-            Console.WriteLine($"Your name is {person.Name}\n you are {person.Age} years old\n and you are from {person.City}");
+            people.Add(newPerson);
+            Console.WriteLine($"Your name is {newPerson.Name}\n you are {newPerson.Age} years old\n and you are from {newPerson.City}");
 
-            string json = JsonSerializer.Serialize(person, new JsonSerializerOptions{WriteIndented = true}); 
+            string json = JsonSerializer.Serialize(people, new JsonSerializerOptions{WriteIndented = true}); 
             File.WriteAllText(filePath, json);
 
             Console.WriteLine("Data was written on the JSON object");
