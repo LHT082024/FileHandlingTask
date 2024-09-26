@@ -1,0 +1,14 @@
+C:\Users\falke\Documents\coding\filehandling\bin\Debug\net8.0\filehandling.exe
+C:\Users\falke\Documents\coding\filehandling\bin\Debug\net8.0\filehandling.deps.json
+C:\Users\falke\Documents\coding\filehandling\bin\Debug\net8.0\filehandling.runtimeconfig.json
+C:\Users\falke\Documents\coding\filehandling\bin\Debug\net8.0\filehandling.dll
+C:\Users\falke\Documents\coding\filehandling\bin\Debug\net8.0\filehandling.pdb
+C:\Users\falke\Documents\coding\filehandling\obj\Debug\net8.0\filehandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\falke\Documents\coding\filehandling\obj\Debug\net8.0\filehandling.AssemblyInfoInputs.cache
+C:\Users\falke\Documents\coding\filehandling\obj\Debug\net8.0\filehandling.AssemblyInfo.cs
+C:\Users\falke\Documents\coding\filehandling\obj\Debug\net8.0\filehandling.csproj.CoreCompileInputs.cache
+C:\Users\falke\Documents\coding\filehandling\obj\Debug\net8.0\filehandling.dll
+C:\Users\falke\Documents\coding\filehandling\obj\Debug\net8.0\refint\filehandling.dll
+C:\Users\falke\Documents\coding\filehandling\obj\Debug\net8.0\filehandling.pdb
+C:\Users\falke\Documents\coding\filehandling\obj\Debug\net8.0\filehandling.genruntimeconfig.cache
+C:\Users\falke\Documents\coding\filehandling\obj\Debug\net8.0\ref\filehandling.dll
